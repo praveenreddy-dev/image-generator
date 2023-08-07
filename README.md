@@ -54,5 +54,3 @@ This project is licensed under the MIT License.
 - The project was inspired by various tutorials and examples on web development.
 
 Remember to replace `your-username` in the "Installation" section with your GitHub username if you are cloning the repository.
-
-Modify the "API Key" section to instruct users on how to obtain their Unsplash API key and replace `YOUR_API_KEY` in the JavaScript code with their actual key.
