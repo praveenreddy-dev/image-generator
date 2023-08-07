@@ -53,12 +53,6 @@ This project is licensed under the MIT License.
 - This project uses the Unsplash API to fetch images. Thanks to the Unsplash team for providing the API.
 - The project was inspired by various tutorials and examples on web development.
 
-```javascript
-
 Remember to replace `your-username` in the "Installation" section with your GitHub username if you are cloning the repository.
 
 Modify the "API Key" section to instruct users on how to obtain their Unsplash API key and replace `YOUR_API_KEY` in the JavaScript code with their actual key.
-
-You can further expand the README with additional information, such as project structure, known issues, usage examples, etc., based on the complexity and requirements of your specific project.
-
-```
